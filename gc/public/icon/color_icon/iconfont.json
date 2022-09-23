@@ -1,0 +1,16 @@
+{
+  "id": "3652470",
+  "name": "合作项目（彩色）",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15559657",
+      "name": "微信",
+      "font_class": "shejiaotubiao-01",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
